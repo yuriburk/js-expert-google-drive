@@ -1,5 +1,5 @@
 {
-  "name": "@erickwendel/gdrive-webapp",
+  "name": "@yuriburk/js-expert-google-drive",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "start": "npx http-server public"
   },
   "keywords": [],
-  "author": "erickwendel",
+  "author": "yuriburk",
   "license": "ISC",
   "dependencies": {
     "http-server": "^0.12.3"
